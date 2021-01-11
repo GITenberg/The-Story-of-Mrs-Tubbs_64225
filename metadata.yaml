@@ -1,5 +1,8 @@
 _repo: The-Story-of-Mrs-Tubbs_64225
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64225-h/images/cover.jpg
 creator:
   author:
     agent_name: Lofting, Hugh
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/269
     wikipedia: https://en.wikipedia.org/wiki/Hugh_Lofting
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64225#The-Story-of-Mrs-Tubbs
 gutenberg_issued: '2021-01-06'
 gutenberg_type: Text
 identifiers:
